@@ -12,7 +12,7 @@
 **Подтверждение проблемы:**
 При вводе «мвленткий принц» (вместо «маленький принц») поиск не находит книгу сразу, хотя она есть в базе.
 
-[![Cкриншот "Маленький принц" ](other/screenshot_from_book.jpg)](other/screenshot_from_book.jpg)
+[![Cкриншот "Маленький принц" ](../other/screenshot_from_book.jpg)](../other/screenshot_from_book.jpg)
 
 ---
 
@@ -24,7 +24,7 @@
 **Подтверждение проблемы:**
 При поиске «роберт кийоски» (вместо «Роберт Кийосаки») поиск выдает книги всех авторов с именем Роберт.
 
-[![Cкпингшот по атору ](other/screenshot_about_authors.jpg)](other/screenshot_about_authors.jpg)
+[![Cкпингшот по атору ](../other/screenshot_about_authors.jpg)](../other/screenshot_about_authors.jpg)
 
 ---
 
@@ -38,7 +38,7 @@
 **Подтверждение проблемы:**
 На сайте ознакомительные фрагменты есть не у всех книг, особенно у старых или нишевых изданий.
 
-[![Скриншот по странице книги](other/screenshot_from_page.jpg)](other/screenshot_from_page.jpg)
+[![Скриншот по странице книги](../other/screenshot_from_page.jpg)](../other/screenshot_from_page.jpg)
 
 ---
 
